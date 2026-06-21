@@ -17,7 +17,7 @@
 ---
 
 > **This repository accompanies the survey paper:** *"Large Language Models for Healthcare and Biomedical Question Answering: Methods, Benchmarks, and Open Problems"*
-> covering 120 papers from 2019–2025, with a unified taxonomy of methods, a structured dataset comparison, a quantitative safety evaluation, and ten original research gaps.
+> covering 125 papers from 2019–2025, with a unified taxonomy of methods, a structured dataset comparison, a quantitative safety evaluation, and ten original research gaps.
 
 ---
 
@@ -250,7 +250,7 @@ Spotted a missing model, an updated benchmark result, or a broken link?
 2. **Submit a pull request** — please include the primary citation for any added model or result
 3. For substantial additions (a new model family, a new dataset category), open an issue first to discuss scope
 
-All URLs were verified in **August 2025**; availability is subject to repository maintainer policies.
+All URLs were verified in **December 2025**; availability is subject to repository maintainer policies.
 
 ---
 
